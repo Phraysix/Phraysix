@@ -21,12 +21,6 @@ I am a 3rd-year Software Engineering student passionate about solving real-world
 
 ---
 
-### 📊 GitHub Stats
-![Phraysix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phraysix&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phraysix&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/efekancakir](https://www.linkedin.com/in/efekancakir/)
 - **Communities:** Founder of **NextGen Devs** & Founding Member of **Medicine and Engineers Club**
