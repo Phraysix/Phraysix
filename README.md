@@ -1,6 +1,6 @@
 # Hi there, I'm Efekan ÇAKIR 👋
 
-### 🚀 Software Engineering Student | C/C++ Developer | Community Leader
+###  Software Engineering Student | C/C++ Developer | Community Leader
 
 I am a 3rd-year Software Engineering student passionate about solving real-world problems through efficient code.
 
