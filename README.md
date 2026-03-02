@@ -23,6 +23,6 @@ I am a 3rd-year Software Engineering student passionate about solving real-world
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/efekancakir](https://www.linkedin.com/in/efekancakir/)
-- **Communities:** Founder of **NextGen Devs** & Founding Member of **Medicine and Engineers Club**
+- **Communities:NextGen Devs Club & Medicine and Engineers Club
 
 > "The best way to predict the future is to invent it."
