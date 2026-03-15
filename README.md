@@ -10,7 +10,7 @@ I am a 3rd-year Software Engineering student passionate about solving real-world
 - **Image Processing:** Actively working on a project for my Image Processing course.
 - **Alzheimer’s Detection:** Researching handwriting analysis for early diagnosis (TÜBİTAK 2209-A Project).
 - **C/C++ Development:** Building performance-oriented applications and strengthening my core programming skills.
-- **Communities:** Founder & Audit Committee Chair at **NextGen Devs** | Founding Member of the **Medicine and Engineers Club**.
+- **Communities:** Founder & Audit Committee Chair at **NextGen Devs** | Audit Committee Chair at **Medicine and Engineers Club**.
 
 ---
 
